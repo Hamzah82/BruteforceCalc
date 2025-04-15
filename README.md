@@ -44,5 +44,11 @@ If you want to contribute to this project, feel free to submit a pull request.
 ## Unencrypted
 if my repo reach 50 stars i will release the source code
 
+## 💰 Support Me:
+If you like my work and want to support me, feel free to donate through **Trakteer & Crypto**:  
+[![Saweria](https://img.shields.io/badge/Donate-Trakteer-red?style=for-the-badge&logo=ko-fi&logoColor=white)](https://trakteer.id/woka/tip)
+* XNO: `nano_34nkk758bnieqtkc6w75pjqpzcdcked1zjo977m8ktot5pibtku4gixad5qc`
+* BTC: `bc1qctk0yk6kxnjmwvkl8x6zfsu4g75w3c6qrtq3ja`
+
 ## License
 [MIT License](https://opensource.org/licenses/MIT)
