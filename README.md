@@ -10,7 +10,7 @@ This project is a simple simulator that estimates the time required to brute-for
 
 ## Requirements
 - Python 3.x
-
+- 64 bit OS (Currently only support Linux and Windows)
 ## Installation
 
 1. Clone this repository:
