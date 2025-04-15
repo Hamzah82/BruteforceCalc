@@ -41,5 +41,7 @@ Estimated brute force time: 1.20 days
 ## Contribution
 If you want to contribute to this project, feel free to submit a pull request.
 
+## Unencrypted
+if my repo has 50 start i will release that
 ## License
 [MIT License](https://opensource.org/licenses/MIT)
